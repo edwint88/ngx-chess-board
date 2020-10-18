@@ -1,0 +1,17 @@
+/**
+ * @fileoverview added by tsickle
+ * Generated from: public-api.ts
+ * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/*
+ * Public API Surface of ngx-chess-board
+ */
+export { NgxChessBoardModule } from './lib/ngx-chess-board.module';
+export { HistoryMove } from './lib/history-move-provider/history-move';
+export {} from './lib/utils/inputs/piece-icon-input';
+export { NgxChessBoardComponent } from './lib/ngx-chess-board.component';
+export { PiecePromotionModalComponent } from './lib/piece-promotion-modal/piece-promotion-modal.component';
+export {} from './lib/ngx-chess-board-view';
+export { NgxChessBoardService } from './lib/service/ngx-chess-board.service';
+export {} from './lib/service/ngx-chess-board.service';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL25neC1jaGVzcy1ib2FyZC8iLCJzb3VyY2VzIjpbInB1YmxpYy1hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7QUFJQSxvQ0FBYyw4QkFBOEIsQ0FBQztBQUM3Qyw0QkFBYywwQ0FBMEMsQ0FBQztBQUN6RCxlQUFjLHFDQUFxQyxDQUFDO0FBRXBELHVDQUFjLGlDQUFpQyxDQUFDO0FBQ2hELDZDQUFjLDZEQUE2RCxDQUFDO0FBRTVFLGVBQWMsNEJBQTRCLENBQUM7QUFDM0MscUNBQWMsdUNBQXVDLENBQUM7QUFDdEQsZUFBYyx1Q0FBdUMsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXHJcbiAqIFB1YmxpYyBBUEkgU3VyZmFjZSBvZiBuZ3gtY2hlc3MtYm9hcmRcclxuICovXHJcblxyXG5leHBvcnQgKiBmcm9tICcuL2xpYi9uZ3gtY2hlc3MtYm9hcmQubW9kdWxlJztcclxuZXhwb3J0ICogZnJvbSAnLi9saWIvaGlzdG9yeS1tb3ZlLXByb3ZpZGVyL2hpc3RvcnktbW92ZSc7XHJcbmV4cG9ydCAqIGZyb20gJy4vbGliL3V0aWxzL2lucHV0cy9waWVjZS1pY29uLWlucHV0JztcclxuXHJcbmV4cG9ydCAqIGZyb20gJy4vbGliL25neC1jaGVzcy1ib2FyZC5jb21wb25lbnQnO1xyXG5leHBvcnQgKiBmcm9tICcuL2xpYi9waWVjZS1wcm9tb3Rpb24tbW9kYWwvcGllY2UtcHJvbW90aW9uLW1vZGFsLmNvbXBvbmVudCc7XHJcblxyXG5leHBvcnQgKiBmcm9tICcuL2xpYi9uZ3gtY2hlc3MtYm9hcmQtdmlldyc7XHJcbmV4cG9ydCAqIGZyb20gJy4vbGliL3NlcnZpY2Uvbmd4LWNoZXNzLWJvYXJkLnNlcnZpY2UnO1xyXG5leHBvcnQgKiBmcm9tICcuL2xpYi9zZXJ2aWNlL25neC1jaGVzcy1ib2FyZC5zZXJ2aWNlJztcclxuXHJcbi8qXHJcbiAqIFB1YmxpYyBBUEkgU3VyZmFjZSBvZiBpbS1ncmlkXHJcbiAqL1xyXG4iXX0=
